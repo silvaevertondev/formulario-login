@@ -3,7 +3,7 @@ Tela animada de Login e Formulário de inscrição/Criação de conta.
 
 Deploy: https://silvaevertondev.github.io/formulario-login/
 
-Tecnologias:
+Skills utilizadas:
 * HTML5
 * CSS3
 * JavaScript
